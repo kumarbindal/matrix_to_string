@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'matrix_to_string'
+puts Matrix.get_spiral_matrix(ARGV[0])

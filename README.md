@@ -15,6 +15,6 @@ Then run `bundle install`
 
 ## Example
 ```ruby
-Matrix.get_spiral_matrix([['A', 'B'], ['C', 'D'], ['E', 'F'], ['G', 'H']]
+Matrix.get_spiral_matrix([['A', 'B'], ['C', 'D'], ['E', 'F'], ['G', 'H']])
 Matrix.is_valid?([['A','B'],['C','D']])
 ```
